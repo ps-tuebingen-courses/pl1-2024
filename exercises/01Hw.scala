@@ -2,9 +2,9 @@
 Homework 01
 ============
 Before doing anything else, register for the Programmiersprachen 1 exercises
-by sending an email to Marius Müller:
+by sending an email to Marco Tzschentke:
 
-mari.mueller@uni-tuebingen.de
+marco.tzschentke@uni-tuebingen.de
 
 Write in the e-mail:
 - Matrikelnummer
@@ -32,7 +32,7 @@ then join that team.
 If you have any questions regarding these processes,
 just ask in the forum beneath the "Organisatorisches" post.
 
-Submit your solution to this exercise until Monday, 24.04.23, 10:00h
+Submit your solution to this exercise until Wednesday, 24.04.23, 10:00h
 via the GitHub repo for your team and for this exercise.
 */
 
