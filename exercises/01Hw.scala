@@ -1,39 +1,6 @@
 /**
 Homework 01
 ============
-Before doing anything else, register for the Programmiersprachen 1 exercises
-by sending an email to Marco Tzschentke:
-
-marco.tzschentke@uni-tuebingen.de
-
-Write in the e-mail:
-- Matrikelnummer
-- name
-- Studiengang + Abschluss (BSc, MSc, ...)
-- Fachsemester
-- name of your GitHub account (register under github.com if you do not have one yet)
-- your student e-mail address
-- optionally: programming languages you already know
-
-You will receive an invitation to our forum for Programmiersprachen 1 (this
-may take some time as it is not an automatic respsonse).
-In the "Organisatorisches" post you will find everything necessary
-to get you started. Read that post first and follow the instructions.
-
-In particular, in that post you will find an invitation to the GitHub Education
-platform for Programmiersprachen 1 exercises.
-
-Work in groups of 1 or 2 students.
-If you want to work together with another student,
-have one of you create a team (you will be asked
-to create or join a team by default) and the other
-then join that team.
-
-If you have any questions regarding these processes,
-just ask in the forum beneath the "Organisatorisches" post.
-
-Submit your solution to this exercise until Wednesday, 24.04.23, 10:00h
-via the GitHub repo for your team and for this exercise.
 */
 
 object Hw01 {
