@@ -6,7 +6,6 @@ Be sure to provide tests for all tasks and check your solution with them.
 From now on, the tasks will not explicitly require tests any more,
 but I advise you to nevertheless use tests for all programming tasks.
 
-Deadline: Monday, May 01, 10:00h
 */
 
 /**
